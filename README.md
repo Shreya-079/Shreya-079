@@ -1,5 +1,12 @@
 # 💫 About Me:
-🧠 I enjoy solving problems with code<br>🔍 Learning by building, debugging & trying again<br>💬 Open to chatting about side projects<br>🔭 Exploring the world of AI, data & software<br>🛠 Love creating tiny tools that actually do something<br>📚 Learning new tech one rabbit hole at a time<br>💬 Ask me what I’m currently experimenting with<br>⚡ Fun fact: my projects teach me more than tutorials, Still chasing that “aha!” debugging moment
+• 🎓 B.Tech CSE student with a passion for continuous learning and self-improvement <br>
+• 🌱 Currently exploring new trends and expanding my knowledge step by step<br>
+• 🧠 Interested in developing logical thinking and problem-solving abilities<br>
+• 📌 Consistent, curious, and open to learning from real-world experiences<br>
+• 🤝 Value teamwork, adaptability, and a positive work environment<br>
+• 📈 Focused on personal and professional growth for future opportunities<br>
+• ✨ Motivated to learn, contribute, and grow with the right guidance<br>
+
 
 
 ## 🌐 Socials:
